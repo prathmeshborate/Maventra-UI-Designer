@@ -64,5 +64,5 @@ This project is open-source.
 ## Contact
 
 - **Author:** Prathmesh Dilip Borate
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/prathmesh-borate-063b19204/)
-- **GitHub:** [Your GitHub Profile](https://github.com/prathmeshborate)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/prathmesh-borate-063b19204/)
+- **GitHub:** [My GitHub Profile](https://github.com/prathmeshborate)
